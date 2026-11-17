@@ -18,7 +18,7 @@
 
 💻 I am currently an intern at [Ant Group](https://www.antgroup.com/), supervised by [Xinhao Deng](https://xinhao-deng.github.io/).
 
-🔖 Academic Services: Reviewer for [ACM MM](https://acmmm.org/), [EMNLP](https://emnlp.org/), [MICCAI](https://miccai.org/), [ICASSP](https://ieeeicassp.org/), [ICME](https://signalprocessingsociety.org/event-names/icme), and ICIC.
+🔖 Academic Services: Reviewer for [ACM MM](https://acmmm.org/), [EMNLP](https://emnlp.org/), [MICCAI](https://miccai.org/), [ICASSP](https://ieeeicassp.org/), [ICME](https://signalprocessingsociety.org/event-names/icme), and [ICIC](http://www.ic-icc.cn/).
 
 📍 Haidian, Beijing, China.
 
